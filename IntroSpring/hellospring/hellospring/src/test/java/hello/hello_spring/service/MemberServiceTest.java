@@ -12,7 +12,6 @@ import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.*;
 class MemberServiceTest {
-    List<> e = new List();
     MemoryMemberRepository repo;
     MemberService memberService;
 
