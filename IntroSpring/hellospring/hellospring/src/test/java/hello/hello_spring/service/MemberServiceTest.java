@@ -28,7 +28,7 @@ class MemberServiceTest {
 
     @Test
     void 회원가입() {
-        //given
+        //givenR
         Member member = new Member();
         member.setName("spring");
         //when
